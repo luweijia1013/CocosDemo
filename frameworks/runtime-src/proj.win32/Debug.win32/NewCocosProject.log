@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(E:\_Document\CocosProject\NewCocosProject\frameworks\runtime-src\proj.win32\Debug.win32\NewCocosProject.exe) does not match the Linker's OutputFile property value (E:\_Document\CocosProject\NewCocosProject\simulator\win32\NewCocosProject.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  60 File(s) copied
+  NewCocosProject.vcxproj -> E:\_Document\CocosProject\NewCocosProject\frameworks\runtime-src\proj.win32\Debug.win32\NewCocosProject.exe
+  16 File(s) copied
+  1 File(s) copied
+  0 File(s) copied
+  E:\_Document\CocosProject\NewCocosProject\src\app\views\LoginScene.lua -> E:\_Document\CocosProject\NewCocosProject\simulator\win32\src\app\views\LoginScene.lua
+  E:\_Document\CocosProject\NewCocosProject\src\packages\mvc\AppBase.lua -> E:\_Document\CocosProject\NewCocosProject\simulator\win32\src\packages\mvc\AppBase.lua
+  2 File(s) copied
